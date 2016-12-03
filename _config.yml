@@ -1,13 +1,13 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        Not First But Best
+tagline:      최혜선의 블로그
 baseurl:      ""
 paginate:     1
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       hyesun03(최혜선)
+  url:        https://hyesun03.github.io/
 
 # Gems
 gems:
